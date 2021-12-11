@@ -6,3 +6,4 @@ made some histograms and scatterplots to see if I could see if the QOI_OP_LUMA a
 QOI_OP_DIFF photo compression ideas of 
 https://github.com/phoboslab/qoi/blob/experimental/qoi.h  could be improved.
 
+Octave code for creating plots is included.
