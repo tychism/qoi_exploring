@@ -7,4 +7,4 @@ QOI_OP_DIFF photo compression ideas of
 https://github.com/phoboslab/qoi/blob/experimental/qoi.h  could be usefully improved.
 
 Octave code for creating plots is included.  The histograms and scatterplots produced 
-are after throwing out identical runs
+are after throwing out identical runs.
